@@ -1,0 +1,11 @@
+{
+  "name": "bookDb",
+  "connector": "mongodb",
+  "url": "mongodb+srv://user:BqrT3W0UxzWsbFsa@hedgehogs-jqe3f.mongodb.net/test?retryWrites=true&w=majorit",
+  "host": "hedgehogs-jqe3f.mongodb.net",
+  "port": 27017,
+  "user": "user",
+  "password": "BqrT3W0UxzWsbFsa",
+  "database": "book-list",
+  "useNewUrlParser": false
+}
