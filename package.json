@@ -11,7 +11,7 @@
     "node": ">=10"
   },
   "scripts": {
-    "build": "lb-tsc",
+    "build": "npm install && lb-tsc",
     "build:watch": "lb-tsc --watch",
     "clean": "lb-clean dist *.tsbuildinfo",
     "lint": "npm run prettier:check && npm run eslint",
